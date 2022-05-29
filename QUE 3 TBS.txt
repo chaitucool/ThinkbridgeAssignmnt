@@ -1,0 +1,20 @@
+ThinkBridge Test QueNO - 03 
+Site URL: Open URL https://www.bestundertaking.net/NewConnection.aspx
+Functional Requirement:
+
+        1. Open URL https://www.bestundertaking.net/NewConnection.aspx
+        Improvements :
+        #Connection Type:Permanent
+	Suggestions:
+	1)Make page stick at current position when writing,updating, and records as it moves at top again and again
+        2)Need to add placeholder for easy understanding of input text.
+
+        #In Connection Details section:
+        Suggestions:
+	1)after clicking Supply Voltage the page should stick at same place. it Moves to top of page.It should stick at the same place.
+	2)Registration Fee(Rs), Connection Fee(Rs), Security Deposit(Rs), Total Charges(Rs) these feilds are unchangeable which should be a                     changeable input text box.
+
+        #In Upload Required Document Section:
+        Suggestions:
+	After uploading the page move top again and again.It should stick at same place. 
+	Please add one of the file input suggestion.So after that iser is able to upload file input type files.
